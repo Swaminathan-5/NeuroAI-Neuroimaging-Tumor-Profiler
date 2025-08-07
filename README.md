@@ -1,4 +1,4 @@
-# 🧠 Smart Brain MRI Analyzer: AI-Powered Tumor Detection
+# 🧠 Neuroimaging Tumor Profiler: AI-Powered Tumor Detection
 
 <div align="center">
 
