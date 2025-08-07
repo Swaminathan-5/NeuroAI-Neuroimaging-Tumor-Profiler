@@ -1,4 +1,4 @@
-# 🧠 Smart Brain MRI Analyzer: AI-Powered Tumor Detection
+# 🧠 NeuroImaging Tumor Profiler: AI-Powered Tumor Detection
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourusername/yourrepo/main/brain_tumor_predictor.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://swaminathan-5-neuroai-neuroimaging-brain-tumor-predictor-xb8ris.streamlit.app/)
 
 ---
 
